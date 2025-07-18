@@ -10,7 +10,7 @@ Aspiring SDE and AI developer with a strong interest in system design, full-stac
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🌟 Tech Stack & Tools
 
 <p align="start">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
