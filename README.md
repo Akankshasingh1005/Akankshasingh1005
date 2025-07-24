@@ -23,7 +23,7 @@ Aspiring SDE and AI developer with a strong interest in system design, full-stac
  
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+ 
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vivado-FE7A16?style=for-the-badge&logo=vivado&logoColor=white"/>
    <img src="https://img.shields.io/badge/Figma-4EA94B?style=for-the-badge&logo=figma&logoColor=white"/> 
