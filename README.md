@@ -34,7 +34,7 @@ Aspiring SDE and AI developer with a strong interest in system design, full-stac
 ### 🌱 GitHub Stats
 
 
-![](https://github-readme-stats.vercel.app/api?username=Akankshasingh1005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+<!-- ![](https://github-readme-stats.vercel.app/api?username=Akankshasingh1005&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/> -->
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Akankshasingh1005&theme=dark&hide_border=false)<br/>
 
